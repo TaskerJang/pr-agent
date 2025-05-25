@@ -227,19 +227,11 @@ TaskerJang 기여 영역/
 
 <div align="center">
   
-[![Velog](https://img.shields.io/badge/Velog-2025_PR_Agent_체험형-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@tasker_dev/2025-오픈소스-컨트리뷰션-아카데미-체험형-PR-Agent-프로젝트-후기)
+[![Velog](https://img.shields.io/badge/Velog-2025_PR_Agent_체험형-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@tasker_dev/2025-오픈소스-컨트리뷰션-아카데미-체험형-1차-PR-Agent-프로젝트-후기)
 
 **6주간의 열정적인 AI 오픈소스 기여 여정을 기술 블로그에서 확인해보세요!**
 
 </div>
-
-### 🏆 주요 성과 및 배운 점
-
-- **실제 MERGE 성공의 성취감**: 전 세계 개발자들이 사용하는 AI 도구에 실질적 기여
-- **메인테이너와의 직접 소통**: 진정한 오픈소스 커뮤니티 문화 체험  
-- **체계적인 테스트 엔지니어링**: 21개 테스트 케이스를 통한 완벽한 품질 검증
-- **완전한 문서화 구현**: 개발자 경험 향상을 위한 상세한 API 문서 작성
-- **지속적인 학습 기록**: 10편의 블로그 포스팅을 통한 지식 공유 및 기여 과정 문서화
 
 ## 🔗 참고 자료
 
